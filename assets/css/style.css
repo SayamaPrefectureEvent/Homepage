@@ -22,6 +22,10 @@
 	transition: all 0.5s ease;
 }
 
+big{
+	font-size:18px;
+}
+
 body {
 	font-family: 'Edu SA Beginner', 'Zen Kurenaido',"小塚ゴシック Pr6N H" sans-serif;
 	min-width: 250px;
